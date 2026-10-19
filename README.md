@@ -1,126 +1,160 @@
 # Hi, I'm Matteo 👋
 
-### Backend & Full Stack Developer | PHP · JavaScript · Python
+### Backend & Full Stack Software Developer
 
-**Building reliable software, solving real problems, and turning complex requirements into practical solutions.**
+**15+ years of professional experience building software, solving complex problems, and delivering real-world solutions.**
 
-I'm an Italian software developer with over 10 years of professional experience designing, developing, and maintaining web applications, backend systems, and custom business solutions.
+I'm an Italian software developer with a strong background in **PHP, JavaScript, relational databases, and custom web application development**.
 
-Throughout my career, I've worked on projects ranging from business management platforms and custom WordPress solutions to API integrations and automation systems.
+Throughout my career, I've designed, developed, and maintained business applications, management systems, custom WordPress solutions, and backend integrations.
 
-My strongest expertise is in **PHP, JavaScript, and relational databases**. I'm also expanding my skills in **Python, TypeScript, modern backend architectures, automated testing, and cloud technologies**.
+My experience spans the entire software development lifecycle, from understanding business requirements and designing application logic to implementation, deployment, debugging, and long-term maintenance.
 
-I enjoy understanding how systems work, making thoughtful technical decisions, and taking ownership of solutions from concept to delivery.
+Today, I'm building on that foundation by expanding my expertise in **Python, TypeScript, Go, modern backend architectures, and cloud technologies**.
 
-🌍 Based in Italy · Open to fully remote opportunities
+I believe good software comes from understanding problems deeply, making thoughtful engineering decisions, and keeping solutions maintainable.
 
-🔗 [Portfolio](https://www.matcode.dev) · [GitHub](https://github.com/matteodev)
+🌍 **Based in Italy · Open to fully remote opportunities**
 
----
-
-## 🛠️ Tech Stack
-
-**Backend Development**
-
-PHP · Python · Node.js · REST APIs · Laravel
-
-**Frontend Development**
-
-JavaScript · HTML5 · CSS3 · React · Next.js
-
-**Databases**
-
-MySQL · SQL · MongoDB
-
-**CMS & E-commerce**
-
-WordPress · WooCommerce · Custom Plugin Development
-
-**Tools & Development Workflow**
-
-Git · Docker · Linux · PHPUnit · API Testing
-
-**Currently Exploring**
-
-TypeScript · FastAPI · AWS · Software Architecture · Distributed Systems
+[![Portfolio](https://img.shields.io/badge/Portfolio-matcode.dev-f26a21?style=flat-square)](https://www.matcode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteopapparella/)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Background
+
+**15+ years of hands-on software development**, with a focus on building reliable applications and solving practical business challenges.
+
+My experience includes:
+
+- **Backend engineering:** PHP, object-oriented programming, API integrations, and database-driven applications.
+- **Full-stack development:** JavaScript, HTML, CSS, and dynamic web interfaces.
+- **Custom business software:** Management platforms, administrative tools, and workflow automation.
+- **WordPress & WooCommerce:** Custom plugins, themes, extensions, and integrations.
+- **Database development:** Relational data modeling, SQL queries, and application data management.
+- **End-to-end delivery:** Architecture, implementation, debugging, deployment, and maintenance.
+
+I bring a combination of technical independence, business understanding, and continuous improvement.
+
+---
+
+## 🛠️ Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Core Expertise** | PHP, JavaScript, MySQL, SQL, WordPress |
+| **Backend & APIs** | REST APIs, Laravel, Node.js, Python, FastAPI |
+| **Frontend** | HTML5, CSS3, React, Next.js, jQuery |
+| **Databases** | MySQL, MongoDB |
+| **Infrastructure & Tools** | Git, Docker, Linux, Nginx |
+| **Testing & Quality** | PHPUnit, pytest, Ruff |
+| **Expanding Skills** | TypeScript, Go, AWS, Event-Driven Architecture |
+
+---
+
+## 🚀 Featured Open-Source Projects
+
+### 🛒 [Reseller Manager — WooCommerce B2B](https://github.com/matteodev/reseller_manager)
+
+**PHP · WordPress · WooCommerce · B2B E-commerce**
+
+A custom WooCommerce extension designed to manage reseller accounts and implement flexible B2B pricing strategies.
+
+**Key features:**
+- Dedicated reseller registration and authentication.
+- Administrative account approval and management.
+- Custom WordPress user roles and permissions.
+- Global percentage-based discounts for individual resellers.
+- Product-specific pricing overrides.
+- Configurable catalog and checkout discount behavior.
+- Integration with WooCommerce pricing and cart mechanisms.
+
+**Engineering focus:** custom business logic, WordPress plugin architecture, role-based access, and WooCommerce extensibility.
+
+### ⚡ [Green-Scale Event Ledger](https://github.com/matteodev/green-scale-event-ledger)
+
+**Go · TypeScript · AWS SQS · Docker · LocalStack**
+
+An event-driven backend engineering project exploring asynchronous processing and service communication.
+
+The project includes an HTTP ingestion gateway, event schema validation, and a local messaging infrastructure.
+
+**Key engineering concepts:**
+- Event-driven architecture
+- Asynchronous messaging
+- Runtime data validation
+- Containerized development environments
+
+*Active development.*
 
 ### 🐍 [Document Processing API](https://github.com/matteodev/document-processing-api)
 
-A Python-based REST API project focused on document processing, validation, and maintainable backend design.
+**Python · FastAPI · REST APIs · pytest**
 
-**Highlights:**
-- API endpoint development with FastAPI
-- Document validation and error handling
-- Modular application structure
-- Automated testing and code quality practices
+A modular REST API focused on document processing, validation, and maintainable backend development.
 
-`Python` `FastAPI` `REST API` `Testing`
-
-### 🧩 [WordPress Image Manager](https://github.com/matteodev/mc-wp_image_manager)
-
-A PHP-based project focused on custom image management functionality within the WordPress ecosystem.
-
-**Focus areas:**
-- Custom PHP development
-- WordPress integration
-- Backend functionality
-- Maintainable application design
-
-`PHP` `WordPress` `Backend Development`
-
-### ⚙️ [Task Manager Go](https://github.com/matteodev/Task-Manager-Go)
-
-An exploration of application development using Go, demonstrating my interest in broadening my backend engineering skills.
-
-`Go` `Backend` `Learning Project`
+**Key engineering concepts:**
+- API design and request validation
+- Modular backend architecture
+- Structured error handling
+- Automated testing
+- OpenAPI documentation
 
 ---
 
-## 💡 How I Approach Software Development
+## 🧠 How I Approach Engineering
 
-I believe good software is not simply about writing code that works.
+**Technology should solve problems, not create unnecessary complexity.**
 
-It's about understanding the problem, choosing the right solution, and building systems that remain understandable and maintainable over time.
+My development philosophy is based on:
 
-My approach focuses on:
+- **Ownership:** Taking responsibility for solutions throughout their lifecycle.
+- **Problem-solving:** Understanding the root cause before writing code.
+- **Maintainability:** Prioritizing readable, structured, and sustainable software.
+- **Pragmatism:** Choosing technologies according to actual project requirements.
+- **Continuous learning:** Building on professional experience while exploring new approaches.
 
-- **Ownership:** Taking responsibility for the complete development lifecycle.
-- **Problem-solving:** Understanding the root cause before implementing a solution.
-- **Maintainability:** Writing readable, organized, and sustainable code.
-- **Continuous learning:** Adapting to new technologies while building on solid engineering fundamentals.
-- **Pragmatism:** Choosing solutions based on real requirements rather than unnecessary complexity.
+I particularly enjoy understanding how systems work internally, identifying opportunities for improvement, and transforming complex requirements into practical solutions.
 
 ---
 
-## 📚 What I'm Working On
+## 📚 Currently Exploring
 
-I'm currently strengthening my backend engineering skills through hands-on projects and structured learning.
+I'm actively strengthening my knowledge of modern backend engineering through hands-on development:
 
-My main areas of focus include:
-
-- Modern PHP development with Laravel
-- Python APIs with FastAPI
-- TypeScript and Node.js
-- Automated testing and software quality
+- TypeScript and Node.js backend development
+- Python and FastAPI
+- Go programming
 - AWS fundamentals and cloud architecture
-- Distributed systems and backend design patterns
+- Event-driven systems and asynchronous communication
+- Automated testing and software design patterns
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Work Together
 
-I'm interested in collaborating with teams that value software quality, technical ownership, continuous improvement, and practical problem-solving.
+I'm open to **fully remote opportunities** where I can contribute my professional experience and continue growing alongside a collaborative engineering team.
 
-**Open to fully remote Backend Developer, PHP Developer, and Full Stack Developer opportunities**, including employment and freelance collaborations.
+**Interested in:**
 
-📍 Italy · Available for international remote collaboration
+- Backend Developer / Backend Software Engineer
+- PHP Developer
+- Full Stack Developer
+- WordPress / WooCommerce Developer
+- Software Developer — APIs & Business Applications
+
+**Working arrangements:** Employment or freelance / B2B
+
+**Location:** Italy · International remote collaboration
+
+### Connect with me
 
 🌐 **Portfolio:** [matcode.dev](https://www.matcode.dev)
 
-💻 **GitHub:** [github.com/matteodev](https://github.com/matteodev)
+💼 **LinkedIn:** [Matteo Papparella](https://www.linkedin.com/in/matteopapparella/)
 
-*Let's build something meaningful.*
+💻 **GitHub:** [matteodev](https://github.com/matteodev)
+
+---
+
+*Building reliable software. Solving real problems. Always learning.*
